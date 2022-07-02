@@ -1,6 +1,6 @@
 # Algorithm Projects
 
-<b>Marmara University / CSE2046 - Analysis of Algorithms (2022)</b>
+<b>Marmara University / Computer Science & Engineering / CSE2046 - Analysis of Algorithms (2022)</b>
 
 <b>Project I</b>
 
